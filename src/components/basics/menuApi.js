@@ -83,7 +83,35 @@ const Menu = [
     },
     {
         id: 10,
-        
+        image: "../images/Bhelpuri.jpg",
+        name: "Bhelpuri",
+        category: "evening",
+        price: "15₹",
+        description:" A popular street food snack made with puffed rice, sev, peanuts, onions, tomatoes, and tamarind chutney. It has a crunchy texture and a sweet, tangy, and spicy flavor."
+    },
+    {
+        id: 11,
+        image: "../images/alootikki.jpg",
+        name: "Bhelpuri",
+        category: "evening",
+        price: "20₹",
+        description:" A shallow-fried potato patty that is crispy on the outside and soft on the inside, mixed with peas and spices. It is usually served with mint chutney and tamarind chutney."
+    },
+    {
+        id: 12,
+        image: "../images/Pani-Puri.jpg",
+        name: "Pani Puri",
+        category: "evening",
+        price: "20₹",
+        description:" A popular street food snack made with crispy hollow balls filled with a spiced mixture of chickpeas, potatoes, and tamarind water. It has a sweet, tangy, and spicy flavor."
+
+    },
+    {
+        id: 13,
+        image: "../images/masala-vada.png",
+        category: "evening",
+        price: "20₹",
+        description:"A spicy and crunchy South Indian snack made with chana dal, onion, and spices. It is usually served with coconut chutney and sambar."
     }
   ];
   
