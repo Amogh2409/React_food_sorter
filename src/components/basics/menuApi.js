@@ -12,7 +12,7 @@ const Menu = [
     {
       id: 2,
       image: "images/allupakoida.jpg",
-      name: "allu pakoida",
+      name: "allu pakoda",
       category: "evening",
       price: "20₹",
       description:
@@ -92,7 +92,7 @@ const Menu = [
     {
         id: 11,
         image: "../images/alootikki.jpg",
-        name: "Bhelpuri",
+        name: "Aloo Tikki",
         category: "evening",
         price: "20₹",
         description:" A shallow-fried potato patty that is crispy on the outside and soft on the inside, mixed with peas and spices. It is usually served with mint chutney and tamarind chutney."
@@ -109,6 +109,7 @@ const Menu = [
     {
         id: 13,
         image: "../images/masala-vada.png",
+        name: "Masala Vada ",
         category: "evening",
         price: "20₹",
         description:"A spicy and crunchy South Indian snack made with chana dal, onion, and spices. It is usually served with coconut chutney and sambar."
